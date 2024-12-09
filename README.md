@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!  
 
-### 👋 Hi there, I'm [Your Name]  
+### 👋 Hi there, I'm [YOGESH D PATIL]  
 I'm passionate about **stock analysis**, **algorithmic trading**, and solving complex **Data Structures and Algorithms (DSA)** problems. With a strong background in **C++ programming**, I enjoy creating efficient solutions to challenging problems and building projects that merge my technical and financial expertise.
 
 ---
@@ -12,7 +12,6 @@ I'm passionate about **stock analysis**, **algorithmic trading**, and solving co
 
 - 💡 **Programming and Problem Solving**  
    - Writing clean, efficient code in **C++**, with a focus on algorithms and data structures.  
-   - Solving competitive programming challenges and contributing to open-source projects.  
 
 - 📈 **Project Development**  
    - Building tools for backtesting trading strategies using Python.  
@@ -21,8 +20,7 @@ I'm passionate about **stock analysis**, **algorithmic trading**, and solving co
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: C++, Python, SQL  
-- **Libraries & Tools**: Pandas, NumPy, Matplotlib, TA-Lib, Backtrader  
+- **Languages**: C++ 
 - **Skills**: Stock analysis, Technical indicators, DSA, OOP, Competitive Programming  
 
 ---
@@ -34,18 +32,15 @@ I'm passionate about **stock analysis**, **algorithmic trading**, and solving co
 - **DSA Problem-Solving Repository**  
    My solutions to DSA questions from platforms like LeetCode, HackerRank, and Codeforces. [Repo Link](#)
 
-- **C++ Programming Tutorials**  
-   A collection of mini-projects and guides showcasing advanced C++ concepts like STL, multi-threading, and file handling. [Repo Link](#)
+
 
 ---
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Let’s Connect  
-- 💼 **LinkedIn**: [Your LinkedIn Profile Link](#)  
-- 📧 **Email**: [Your Email Address](mailto:youremail@example.com)  
-- 🌐 **Portfolio**: [Your Portfolio Link](#)  
+- 💼 **LinkedIn**:(www.linkedin.com/in/
+ yogesh-patil-93bba924b)  
+- 📧 **Email**: (yogeshpatil22594@gmail.com)  
+
 
