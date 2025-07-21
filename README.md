@@ -90,7 +90,7 @@ I'm a **B.Tech student at NIT Rourkela** with a keen interest in **Data Analytic
 - 📧 [yogeshpatil22594@gmail.com](mailto:yogeshpatil22594@gmail.com)
 - 💼 [LinkedIn: yogesh-patil-93bba924b](https://www.linkedin.com/in/yogesh-patil-93bba924b)
 - 🖥️ [GitHub: yogeshpatil9511](https://github.com/yogeshpatil9511)
-- 🌐[Portfolio: yogeshpatil9511]([https://github.com/yogeshpatil9511](https://wondrous-rolypoly-5783bb.netlify.app/))
+- 🌐[Portfolio: yogeshpatil9511]((https://wondrous-rolypoly-5783bb.netlify.app/))
 
 
 ---
